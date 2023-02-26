@@ -1,0 +1,16 @@
+
+L
+java:S1066C"/Merge this if statement with the enclosing one.(Œ¡ÙŞ8Âóö½è0
+m	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±µÔ8Ãóö½è0
+r	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îã¾Éÿÿÿÿÿ8Ãóö½è0
+0
+java:S1700"Rename field "node"(ˆ‚¬ğ8Åóö½è0
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı°ûğúÿÿÿÿ8Åóö½è0
+W	java:S125"<This block of commented-out lines of code should be removed.(ó¥Š|8Êôö½è0
+c
+java:S1659"ADeclare "time" and all following declarations on a separate line.(•¬ˆ¤ÿÿÿÿÿ8Ìôö½è0
+{
+java:S1210&"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ë¶œûûÿÿÿÿ8Ìôö½è0
+^
+java:S1659"ADeclare "cost" and all following declarations on a separate line.(ˆ‚¬ğ8Îôö½è0
+U	java:S106T"9Replace this use of System.out or System.err by a logger.(ñÓø 8Õôö½è0
